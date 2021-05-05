@@ -1,3 +1,3 @@
-Nama: Herli Topan
-Nim: !811500079
-Kelompok: TI6J
+Nama: Herli Topan<br>
+Nim: 1811500079<br>
+Kelompok: TI6J<br>
